@@ -4,9 +4,13 @@ Can run real-time simulations with ADC inputs and DAC outputs
 Coding requires three letter block functions followed by variable names
 
 adc ch0 out
+
 prt out
+
 end
+
 set ch0 0
+
 set dt 0.01
 
 The above example will read ADC0 every 10ms and print the result
