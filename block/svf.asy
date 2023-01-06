@@ -1,0 +1,21 @@
+Version 4
+SymbolType CELL
+RECTANGLE Normal 64 -64 -32 0
+TEXT 0 -34 Left 2 svf
+SYMATTR Prefix S
+SYMATTR SpiceModel lim
+PIN -32 -32 NONE 8
+PINATTR PinName IN
+PINATTR SpiceOrder 1
+PIN 0 0 NONE 8
+PINATTR PinName G1
+PINATTR SpiceOrder 2
+PIN 64 -48 NONE 8
+PINATTR PinName BP
+PINATTR SpiceOrder 4
+PIN 32 0 NONE 8
+PINATTR PinName G2
+PINATTR SpiceOrder 3
+PIN 64 -16 NONE 8
+PINATTR PinName LP
+PINATTR SpiceOrder 5
