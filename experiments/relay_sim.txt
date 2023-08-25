@@ -1,0 +1,26 @@
+clr
+sub in out in2
+eul in2 g lim out
+sub out 6.1 t1
+brm t1 3
+rst 0 in
+rst g2 g
+sub out 4.9 t2
+brp t2 3
+rst 7.1 in
+rst g1 g
+prt in out
+dac out ch0
+end
+set 3 3
+set in 7.1
+set 6.1 6.1
+set 7.1 7.1
+set 4.9 4.9
+set dt .005
+set max 9999
+set g1 2.56
+set g 2.56
+set g2 0.637
+run
+

@@ -1,0 +1,10 @@
+clr
+sub in out in2
+eul in2 g lim out
+prt t out
+end
+set max -250
+set out 8
+set g 0.01
+set dt 1
+run

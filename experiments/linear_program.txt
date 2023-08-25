@@ -1,0 +1,10 @@
+clr
+sum y 4 y4
+mul 2 y4 x
+prt x
+end
+set y -1
+set 2 2
+set 4 4
+set dt 1
+run

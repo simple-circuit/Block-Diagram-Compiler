@@ -1,0 +1,8 @@
+clr
+sum 2 4 x
+prt x
+end
+set 2 2
+set 4 4
+set dt 1
+run
