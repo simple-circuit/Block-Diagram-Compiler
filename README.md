@@ -2,6 +2,7 @@
 A simple text-based Block Diagram Compiler for Continuous System Simulation.
 Learn to program an Analog Computer using this digital simulator.
 Can run real-time simulations with ADC inputs and DAC outputs.
+Start reading about it with the block_programming_pico.pdf document.
 
 ![](./NewFile5.png)
 
