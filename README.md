@@ -31,7 +31,7 @@ Additional experiments with block programs and externl circuits are covered in t
 
 ADC linearity.pdf.....................Measure ADC linearity and reduce differential linearity error.<br/>
 Adding Block Functions.pdf........Add your own block function, a step by step tutorial.<br/>
-Experiments with Integrators.pdf....Build an integrator with few arithmetic blocks. Investigate severl applications.<br/>
+Experiments with Integrators.pdf....Build an integrator with few arithmetic blocks. Investigate several applications.<br/>
 Some Building Tips.pdf.............Tips on building the +-10V analog I/O board. (the Block program can run without it)<br/>
 looking at dynamic range.pdf......Examine limitations on the ADC and PWM DAC signal range.<br/>
 multiplexer_examples.pdf..........A look at some analog multipler applicatons.<br/>
